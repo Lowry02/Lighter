@@ -20,7 +20,7 @@ Here is shown the entire behaviour of the loss and accuracy during the epochs(so
 
 ![Loss and Accuracy Comparison](./img/loss_acc.png)
 
-These are some _attention\_layer_ examples: in the first row there is the first input, in the second one the layer.
+These are some _attention\_layer_ examples: in the first row there is the input, in the second one the layer.
 
 ![Attention Layer](./img/attention_layer.png)
 
