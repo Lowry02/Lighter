@@ -30,6 +30,6 @@ Here, instead, we show how the input is seen by the classifier:
 
 ![Attention Layer](./img/classifier_input.png)
 
-The classifier is able to focus on the right area of the image to make the classification.
+The classifier is able to focus on the correct area of the image to make the classification.
 
 It is still not understood why the lower-left pixel block is always considered important by the model.
